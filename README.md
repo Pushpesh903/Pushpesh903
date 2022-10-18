@@ -11,7 +11,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
 
-- 🎓 Information Science & Engineering undergraduate student.
+- 🎓 Computer Science & Engineering- Data Science undergraduate student.
 
 - :telescope: Intellectually exploring planet Earth.
 
